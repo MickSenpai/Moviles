@@ -37,6 +37,8 @@ class _HomePageState extends State<HomePage> {
         x = event.x;
         y = event.y;
         z = event.z;
+
+        //cambio x
       });
     });
   }
